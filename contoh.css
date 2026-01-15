@@ -1,0 +1,54 @@
+.continer{
+    width: 350px;
+    height: 350px;
+    background-color: blueviolet;
+    justify-content:  center;
+    align-items: center;
+}
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.pertama{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(18, 190, 119);
+    border: 3px solid;
+    border-radius: 20px;
+}
+.kedua{
+     width: 250px;
+    height: 250px;
+    background-color: blueviolet;
+    border: 3px solid;
+    border-radius: 20px;
+
+
+}
+.ketiga{
+    width: 250px;
+    height: 250px;
+    background-color: blueviolet;
+    border: 3px solid;
+    border-radius: 30px;
+
+}
+.keempat{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(84, 240, 149);
+    border: 3px solid;
+    border-radius: 20px;
+
+}
+    
+
+
+
+
+
+
+
+
